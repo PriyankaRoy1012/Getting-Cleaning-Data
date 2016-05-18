@@ -11,4 +11,4 @@ The script run_analysis.R reads data from Human Activity Recognition database bu
 4. The training and testing data are then read
 5. Subjects, acivities and data sets are then combined to get the full data set with column names.
 6. Ids, activity name and columns having mean and std are extracted
-7. It is then aggregated at subject_id, activity_id & activity_name level to get the final data set
+7. It is then aggregated at subject_id, activity_id & activity_name level using mean function to get the final data set
